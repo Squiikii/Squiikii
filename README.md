@@ -28,7 +28,9 @@ Share educational resources | Find contribution opportunities
 
 <h2> 📫 Reach me on</h2>
 Discord; User ID = <a href="https://discord.com/users/244560062486544412">DingoBongo#7571</a>
-
+<br>
+<br>Cheers,
+🦊
 
 <!---
 Squiikii/Squiikii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

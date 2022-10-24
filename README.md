@@ -1,5 +1,5 @@
 <h1>👋 Hello, World!</h1>
-I'm Squiikii. Thanks for viewing and helping improve my README.
+I'm DingoBongo. Thanks for viewing and helping improve my README.
 <h2>🌱 Currently I'm...</h2> 
 Learning JavaScript using the <a href="https://www.codesmith.io/">Codesmith</a> CSX precourse.
 <br>Solving JavaScript challenges regarding <a href="https://csx.codesmith.io/public/callbacks/intro-callbacks-read">Callbacks & Higher Order Functions</a>

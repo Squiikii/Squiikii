@@ -1,7 +1,8 @@
 <h1>👋 Hello, World!</h1>
 I'm DingoBongo. Thanks for viewing and helping improve my README.
 <h2>🌱 Currently I'm...</h2> 
-Starting a password generator project
+<a href="(https://overthewire.org/wargames/bandit/bandit0.html)">OverTheWire</a>
+<br>Starting a password generator project
 <br>Loading Kali Linux onto bootable flash drives
 <br>Studying for CompTIA's Network+ exam
 <br>Learning JavaScript using the <a href="https://www.codesmith.io/">Codesmith</a> CSX precourse.

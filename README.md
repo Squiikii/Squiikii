@@ -1,6 +1,9 @@
 <h1>👋 Hello, World!</h1>
 I'm DingoBongo. Thanks for viewing and helping improve my README.
 <h2>🌱 Currently I'm...</h2> 
+Starting a password generator project
+Loading Kali Linux onto bootable flash drives
+Studying for CompTIA's Network+ exam
 Learning JavaScript using the <a href="https://www.codesmith.io/">Codesmith</a> CSX precourse.
 <br>Solving JavaScript challenges regarding <a href="https://csx.codesmith.io/public/callbacks/intro-callbacks-read">Callbacks & Higher Order Functions</a>
 <br>Reinforcing JavaScript concepts using <a href="https://grasshopper.app/">Grasshopper</a>, part of the <a href="https://edu.google.com/code-with-google/">Code with Google</a> program.

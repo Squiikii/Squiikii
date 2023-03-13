@@ -28,7 +28,7 @@ I can help: | I need help to:
 Find syntax errors | Find enjoyable projects
 Fix documentation inadequacies | Learn industry best practices
 Quality assurance | Practice pair programming
-Share educational resources | Find contribution opportunities 
+Research | Find contribution opportunities 
 
 <h2> 📫 Reach me on</h2>
 Discord; User ID = <a href="https://discord.com/users/244560062486544412">DingoBongo#7571</a>

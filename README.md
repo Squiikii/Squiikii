@@ -25,7 +25,7 @@ I'm DingoBongo. Thanks for viewing and helping improve my README.
 
 I can help: | I need help to:  
 ------------ | -------------
-Find syntax errors | Decide JavaScript or Ruby on Rails?
+Find syntax errors | Find enjoyable projects
 Fix documentation inadequacies | Learn industry best practices
 Quality assurance | Practice pair programming
 Share educational resources | Find contribution opportunities 

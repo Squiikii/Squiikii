@@ -2,6 +2,7 @@
 I'm DingoBongo. Thanks for viewing and helping improve my README.
 <h2>🌱 Currently I'm...</h2> 
 <a href="(https://overthewire.org/wargames/bandit/bandit0.html)">OverTheWire</a>
+<br>Volunteering time to fix bad Wordpress sites and broken WooCommerce stores
 <br>Starting a password generator project
 <br>Loading Kali Linux and Tails "live" operating systems onto flash drives
 <br>Studying for CompTIA's Network+ exam (Professor Messer + Jason Dion)

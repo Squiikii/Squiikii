@@ -3,8 +3,8 @@ I'm DingoBongo. Thanks for viewing and helping improve my README.
 <h2>🌱 Currently I'm...</h2> 
 <a href="(https://overthewire.org/wargames/bandit/bandit0.html)">OverTheWire</a>
 <br>Starting a password generator project
-<br>Loading Kali Linux onto bootable flash drives
-<br>Studying for CompTIA's Network+ exam
+<br>Loading Kali Linux and Tails "live" operating systems onto flash drives
+<br>Studying for CompTIA's Network+ exam (Professor Messer + Jason Dion)
 <br>Learning JavaScript using the <a href="https://www.codesmith.io/">Codesmith</a> CSX precourse.
 <br>Solving JavaScript challenges regarding <a href="https://csx.codesmith.io/public/callbacks/intro-callbacks-read">Callbacks & Higher Order Functions</a>
 <br>Reinforcing JavaScript concepts using <a href="https://grasshopper.app/">Grasshopper</a>, part of the <a href="https://edu.google.com/code-with-google/">Code with Google</a> program.

@@ -2,8 +2,8 @@
 I'm DingoBongo. Thanks for viewing and helping improve my README.
 <h2>🌱 Currently I'm...</h2> 
 <a href="(https://overthewire.org/wargames/bandit/bandit0.html)">OverTheWire</a>
+<br>Working through Ethical Hacking: A Hands-on Intoduction to Breaking In by Daniel Graham.
 <br>Volunteer UX design and front end development for local businesses
-<br>Starting a password generator project
 <br>Loading Kali Linux and Tails "live" operating systems onto flash drives
 <br>Studying for CompTIA's Network+ exam (Professor Messer + Jason Dion)
 <br>Learning JavaScript using the <a href="https://www.codesmith.io/">Codesmith</a> CSX precourse.

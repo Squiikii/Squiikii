@@ -1,4 +1,4 @@
-<h1>👋 Hello, World</h1>
+<h1>👋 Hello World</h1>
 <h2> 📫 Reach me on</h2>
 Discord; User ID = <a href="https://discord.com/users/244560062486544412">DingoBongo#7571</a>
 <br>

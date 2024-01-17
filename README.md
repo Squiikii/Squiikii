@@ -1,5 +1,5 @@
 <h1>👋 Hello, World!</h1>
-<img src="https://tryhackme-badges.s3.amazonaws.com/dingobongo.png" alt="TryHackMe">
+
 <h2>💞️ Let's collaborate! </h2>
 <ul>
   <li>🛡️ infosec 🛡️</li>
@@ -10,7 +10,7 @@ Discord; User ID = <a href="https://discord.com/users/244560062486544412">DingoB
 <br>
 <br>
 <br>Cheers,
-<br>🦊
+<br><img src="https://tryhackme-badges.s3.amazonaws.com/dingobongo.png" alt="TryHackMe">
 
 <!---
 Squiikii/Squiikii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

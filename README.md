@@ -1,6 +1,6 @@
 
 <br><img src="https://tryhackme-badges.s3.amazonaws.com/dingobongo.png" alt="TryHackMe">
-<br>Discord; <a href="https://discord.com/users/244560062486544412">DingoBongo#7571</a>
+<br>Discord; <a href="https://discord.com/users/244560062486544412">dingobongo#7571</a>
 
 <!---
 Squiikii/Squiikii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

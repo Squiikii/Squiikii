@@ -1,6 +1,6 @@
 <h1>👋 Hello, World!</h1>
 I'm dingobongo.
-<script src="https://tryhackme.com/badge/2409227"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/dingobongo.png" alt="TryHackMe">
 <br>
 <h2>💞️ Let's collaborate! </h2>
 <ul>

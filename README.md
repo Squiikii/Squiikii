@@ -4,6 +4,7 @@ Discord; User ID = <a href="https://discord.com/users/244560062486544412">DingoB
 <br>
 <br>
 <br>Cheers,
+<br>
 <br><img src="https://tryhackme-badges.s3.amazonaws.com/dingobongo.png" alt="TryHackMe">
 
 <!---

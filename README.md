@@ -4,7 +4,7 @@
 <ul>
   <li>🤖 automation 🤖</li>
   <li>🔒 cryptography 🔒</li>
-  <li>🛡️ cyber defense 🛡️</li>
+  <li>🛡️ information security 🛡️</li>
 </ul>
 
 <h2> 📫 Reach me on</h2>

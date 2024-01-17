@@ -2,8 +2,6 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/dingobongo.png" alt="TryHackMe">
 <h2>💞️ Let's collaborate! </h2>
 <ul>
-  <li>🤖 automation 🤖</li>
-  <li>🔒 cryptography 🔒</li>
   <li>🛡️ infosec 🛡️</li>
 </ul>
 

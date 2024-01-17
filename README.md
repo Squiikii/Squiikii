@@ -1,38 +1,17 @@
 <h1>👋 Hello, World!</h1>
-I'm DingoBongo. Thanks for viewing and helping improve my README.
-<h2>🌱 Currently I'm...</h2> 
-<a href="(https://overthewire.org/wargames/bandit/bandit0.html)">OverTheWire</a>
-<br>Working through Ethical Hacking: A Hands-on Intoduction to Breaking In by Daniel Graham.
-<br>Volunteer UX design and front end development for local businesses
-<br>Loading Kali Linux and Tails "live" operating systems onto flash drives
-<br>Studying for CompTIA's Network+ exam (Professor Messer + Jason Dion)
-<br>Learning JavaScript using the <a href="https://www.codesmith.io/">Codesmith</a> CSX precourse.
-<br>Solving JavaScript challenges regarding <a href="https://csx.codesmith.io/public/callbacks/intro-callbacks-read">Callbacks & Higher Order Functions</a>
-<br>Reinforcing JavaScript concepts using <a href="https://grasshopper.app/">Grasshopper</a>, part of the <a href="https://edu.google.com/code-with-google/">Code with Google</a> program.
+I'm dingobongo.
+<script src="https://tryhackme.com/badge/2409227"></script>
 <br>
 <h2>💞️ Let's collaborate! </h2>
-<h3>🎓 Educated in </h3> 
-<ul>
-  <li>🎚️ Music technology, composition and event production</li>
-  <li>🛠️ Real property rennovation, investment and asset management</li>
-  <li>📈 Small business, promotional strategies and guerilla marketing</li>
-</ul>
-<h3>👨‍💻 Interested in </h3>
 <ul>
   <li>🤖 automation 🤖</li>
   <li>🔒 cryptography 🔒</li>
   <li>🛡️ cyber defense 🛡️</li>
 </ul>
 
-I can help: | I need help to:  
------------- | -------------
-Find syntax errors | Find enjoyable projects
-Fix documentation inadequacies | Learn industry best practices
-Quality assurance | Practice pair programming
-Research | Find contribution opportunities 
-
 <h2> 📫 Reach me on</h2>
 Discord; User ID = <a href="https://discord.com/users/244560062486544412">DingoBongo#7571</a>
+<br>
 <br>
 <br>Cheers,
 <br>🦊
